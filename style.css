@@ -1,0 +1,25 @@
+.random{
+    width: 150px;
+    height: 50px;
+    border-radius: 50px;
+    border: none;
+    color: white;
+    background-color: black;
+}
+.gardient{
+    margin-top: 65px;
+    margin-left: -150px;
+    width: 150px;
+    height: 50px;
+    border-radius: 50px;
+    border: none;
+    color: white;
+    background-color: black;
+}
+.background {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
